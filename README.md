@@ -41,7 +41,7 @@ Now ping mainframe once more. You should observe that the hostname now resolves 
 
 ### CNAME Record
 
-On DC-1 go to the  DNS Management Console and create a CNAME (Canonical Name) record. Set the alias search to point to www.google.com.
+On DC-1 go to the  DNS Management Console and create a CNAME (Canonical Name) record. Set the alias search to point to www.google.com
 
 ![mstsc_whcfpcug2j](https://github.com/user-attachments/assets/bccc56fd-a0ce-4166-8ec2-b2e832241488)
 
