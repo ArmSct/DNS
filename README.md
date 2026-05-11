@@ -5,7 +5,7 @@
 
 This lab demonstrates how to create and manage DNS records in a Windows Server Active Directory environment hosted on Microsoft Azure. The lab cover creating A-records, observing DNS caching behavior, and configuring CNAME records. A domain controller (DC-1) and client (Client-1) virtual machine are pre-configured for this lab.
 
-## Technologies Utilized
+## Technologies Utilized 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
