@@ -10,7 +10,7 @@ This lab demonstrates how to create and manage DNS records in a Windows Server A
 - Remote Desktop
 - Active Directory Domain Services
 - Command Prompt
-
+ 
 ## Actions and Observations
 
 ### A-Record
