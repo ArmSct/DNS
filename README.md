@@ -7,7 +7,7 @@ This lab demonstrates how to create and manage DNS records in a Windows Server A
 
 ## Technologies Utilized 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop 
 - Active Directory Domain Services
 - Command Prompt
  
